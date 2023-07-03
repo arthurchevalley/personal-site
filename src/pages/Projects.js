@@ -17,7 +17,7 @@ const Projects = () => (
         <div className="title">
           <h2><Link to="/projects">Projects</Link></h2>
           <p>Long projects on which I worked during my studies.
-            It includes two semester project as well as my master thesis.
+            It includes two semester projects as well as my master thesis.
           </p>
         </div>
       </header>
