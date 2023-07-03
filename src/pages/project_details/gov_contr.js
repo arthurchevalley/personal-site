@@ -21,13 +21,6 @@ const Projects = () => (
           </p>
         </div>
       </header>
-      <div className="cell-container">
-        <article className="mini-post">
-          <a href="https://github.com/arthurchevalley/Improving-FSOD-on-RSI-using-Sub-Parts" className="image">
-            <img src={`${PUBLIC_URL}/images/projects/Three_Agents.gif`} alt="Three Agents Setup" />
-          </a>
-        </article>
-      </div>
     </article>
   </Main>
 );
