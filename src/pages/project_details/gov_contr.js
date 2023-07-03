@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 
 import Main from '../../layouts/Main';
 
-const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
-
 const Projects = () => (
   <Main
     title="Projects"
