@@ -1,3 +1,5 @@
+Click [here](https://arthurchevalley.github.io/personal-site/) to access the website!
+
 ## Acknowledgements
 
 * Largely based on [mldangelo.com](https://mldangelo.com) tutorial website.
