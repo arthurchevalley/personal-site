@@ -8,7 +8,7 @@ jobs:
   deployment:
     runs-on: ubuntu-20.04
     timeout-minutes: 5
-    environment: production
+    environment: deploy
     steps:
     - name: Checkout
       uses: actions/checkout@v1
@@ -22,9 +22,9 @@ jobs:
       run: npm ci
     - name: Build and Deploy
       env:
-        NODE_ENV: production
+        NODE_ENV: deploy
         # This is set automatically by github
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
           git config user.name "Automated"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/arthurchevalley/personal-site.git
