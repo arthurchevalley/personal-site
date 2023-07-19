@@ -11,7 +11,7 @@ jobs:
     environment: deploy
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
+      uses: actions/checkout@v3
       with:
         persist-credentials: false
     - name: Setup Node
@@ -22,7 +22,7 @@ jobs:
       run: npm ci
     - name: Build and Deploy
       env:
-        NODE_ENV: deploy
+        NODE_ENV: production
         # Remove this line if you would like to skip using google analytics
         REACT_APP_GA_TRACKING_ID: G-BZ6FSMFCVT
         # This is set automatically by github
