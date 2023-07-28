@@ -1,4 +1,4 @@
-Click [here](https://arthurchevalley.github.io/personal-site/) to access the website!
+Click [here](arthurchevalley/) to access the website!
 
 ## Acknowledgements
 
