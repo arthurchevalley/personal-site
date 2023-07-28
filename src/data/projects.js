@@ -2,7 +2,7 @@ const data = [
   {
     title: 'Improving Few-Shot Object Detection with contrastive Sub-Parts',
     subtitle: 'Master Thesis in Industry',
-    link: '/projects/FSODRSI/',
+    link: './projects/FSODRSI/',
     image: '/images/projects/pdm2.png',
     date: '2023',
     desc:
@@ -11,7 +11,7 @@ const data = [
   {
     title: 'Model-Agnostic Meta-Learning few-shot Classification',
     subtitle: 'A Model-Agnostic Meta-Learning few-shot Classification model for remote sensing data',
-    link: '/projects/MAML/',
+    link: './projects/MAML/',
     image: '/images/projects/maml2.png',
     date: '2020',
     desc:
@@ -20,7 +20,7 @@ const data = [
   {
     title: 'Unicycle robot controller using Governor in dynamic environment',
     subtitle: 'A unicycle controller using power diagram and governor',
-    link: '/projects/GOVCONTR/',
+    link: './projects/GOVCONTR/',
     image: '/images/projects/gov2.png',
     date: '2020',
     desc:
