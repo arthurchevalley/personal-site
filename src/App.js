@@ -34,10 +34,10 @@ const App = () => (
         <Route path="/projects/FSODRSI" element={<FsodRsiPage />} />
         <Route path="/projects/MAML" element={<MAML />} />
         <Route path="/projects/GOVCONTR" element={<GOVCONTR />} />
-        <Route path="/projects/FlyingRobots" element={<FlyingRobotsPage />} />
-        <Route path="/projects/SimulationRobots" element={<SimulationRobotsPage />} />
-        <Route path="/projects/DeepLearning" element={<DeepLearningPage />} />
-        <Route path="/projects/WheeledRobots" element={<WheeledRobotsPage />} />
+        <Route path="/shorterprojects/FlyingRobots" element={<FlyingRobotsPage />} />
+        <Route path="/shorterprojects/SimulationRobots" element={<SimulationRobotsPage />} />
+        <Route path="/shorterprojects/DeepLearning" element={<DeepLearningPage />} />
+        <Route path="/shorterprojects/WheeledRobots" element={<WheeledRobotsPage />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="*" element={<NotFound />} />
