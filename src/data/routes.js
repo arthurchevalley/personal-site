@@ -14,11 +14,11 @@ const routes = [
   },
   {
     label: 'Projects',
-    path: '/projects',
+    path: '/projects/',
   },
   {
     label: 'Shorter Projects',
-    path: '/ShorterProjects',
+    path: '/ShorterProjects/',
   },
   {
     label: 'Contact',

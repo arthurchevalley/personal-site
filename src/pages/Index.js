@@ -22,7 +22,7 @@ const Index = () => (
         Please feel free to read more <Link to="/about">about me</Link>,
         check out my {' '}
         <Link to="/resume">resume</Link> and {' '}
-        <Link to="/projects">projects</Link>, {' '}
+        <Link to="/projects/">projects</Link>, {' '}
         or simply <Link to="/contact">contact me</Link>.
       </p>
       <section id="intro">

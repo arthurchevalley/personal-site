@@ -15,7 +15,7 @@ const Projects = () => (
     <article className="post" id="projects_study">
       <header>
         <div className="title">
-          <h2><Link to="/ShorterProjects">Shorter Projects</Link></h2>
+          <h2><Link to="/ShorterProjects/">Shorter Projects</Link></h2>
           <p>A selection of shorter projects on which I worked.
             For now, it mainly includes work done during my master but is,
             and will, be increasing as time goes!

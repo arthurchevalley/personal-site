@@ -70,7 +70,7 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/resume');
   });
 
-  it('can navigate to /projects', async () => {
+  it('can navigate to /', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector('#header > nav > ul > li:nth-child(3) > a');
     expect(contactLink).toBeInTheDocument();
