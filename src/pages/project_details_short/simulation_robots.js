@@ -34,7 +34,7 @@ const Projects = () => (
       </header>
       <header>
         <div className="title">
-          <h2><Link to="/projects/SimulationRobots/">Autonomous Quadcopter flight</Link></h2>
+          <h2><Link to="https://github.com/arthurchevalley/MPC-Quadcopter-Simulation">Autonomous Quadcopter flight</Link></h2>
           <p>  Development of MPC controller to achieve path following of a quadcopter.
             There is one implementation in <Link to="https://github.com/arthurchevalley/MPC-Quadcopter-Simulation">MATLAB</Link> and one in <Link to="https://github.com/arthurchevalley/ControlFun/blob/main/MPC_Python.py">Python</Link>.
             Note that the python implementation is only for the basic controller.
