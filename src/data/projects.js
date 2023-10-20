@@ -15,7 +15,7 @@ const data = [
     image: '/images/projects/maml2.png',
     date: '2020',
     desc:
-      'Investigation of self-supervised model using a model agnostic meta-learning (MAML) approach for few-shot landcover classification using similarity based task creation.',
+      'Investigation of a self-supervised model using a model agnostic meta-learning (MAML) approach for few-shot landcover classification using similarity based task creation.',
   },
   {
     title: 'Unicycle robot controller using Governor in dynamic environment',

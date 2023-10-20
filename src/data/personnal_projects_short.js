@@ -5,7 +5,7 @@ const datapersoShort = [
     page: './WheeledRobots/',
     image: '/images/projects/bg.png',
     desc:
-      'The ensemble of projects related to wheeled robots, i.e. Thymio, Loomo and e-puck2',
+      'An ensemble of projects related to wheeled robots, i.e. Thymio, Loomo and e-puck2',
   },
   {
     title: 'Flying robot navigation',
@@ -18,7 +18,7 @@ const datapersoShort = [
     page: './DeepLearning/',
     image: '/images/projects/bg.png',
     desc:
-      'All Projects purely related to Deep Learning only.',
+      'All Projects purely related to Deep Learning.',
   },
   {
     title: 'Robot Controller in Simulation',
