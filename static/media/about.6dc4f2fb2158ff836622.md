@@ -6,12 +6,12 @@ Before all those robotic-related projects, I achieved a micro-engineering bachel
 
 <h1 style="text-align: center;">Passions and hobbies</h1>
 
-In addition to learning new things, I am very invested in pushing myself in bouldering and lead climbing. Discovering this sport during my study was a revelation as it requires being very aware of my body and total control of it. In addition, being in the middle of the mountains or forests allows me to clear my mind and be more focused.
+In addition to learning new things, I am very invested in pushing myself in bouldering and lead climbing. Discovering this sport during my study was a revelation, as it requires being very aware of my body and total control of it. In addition, being in the middle of the mountains or forests allows me to clear my mind and be more focused.
 
-Furthermore, I am very interested in art in general. From the history of art up to the very contemporary art scene, I am always eager to discover what is happening! If you want to meet me, you can be sure to find me at the Venice Art Biennale or in a museum in every city I visit. Luckily, I had the opportunity to visit a lot of them as I traveled all around the world almost since my first travel to India in 1999. Ever since, I am always more than enthusiastic to go on an adventure, leading me to visit 37 countries! My passion for Asia, due to its amazing food and landscapes, made me go to China and India multiple times always wanting to go back!
+Furthermore, I am very interested in art in general. From the history of art up to the very contemporary art scene, I am always eager to discover what is happening! If you want to meet me, you can be sure to find me at the Venice Art Biennale or in a museum in every city I visit. Luckily, I had the opportunity to visit a lot of them as I traveled all around the world almost since my first travel to India in 1999. Ever since, I am always more than enthusiastic to go on an adventure, leading me to visit 37 countries! My passion for Asia, due to its amazing food and landscapes, made me go to China and India multiple times, always wanting to go back!
 
 <h1 style="text-align: center;">What is next?</h1>
 
-While I am completing my civil duty in Switzerland, I have time to wander around the coding world, trying out multiple things! However, I will also have the ability to work at CHUV to tackle the question of medical image deep learning for 3D invariant segmentation! As it may be understood looking at my project and interests, I cannot focus on only one project as I want to be a part of every aspect of technology and help create tools to help others!
+While I am completing my civil duty in Switzerland, I have time to wander around the coding world, trying out multiple things! As it may be understood looking at my project and interests, I cannot focus on only one project as I want to be a part of every aspect of technology and participate in the creation of tools to help others!
 
 # To Be Continued...
