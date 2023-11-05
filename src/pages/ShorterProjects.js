@@ -17,7 +17,8 @@ const Projects = () => (
         <div className="title">
           <h2><Link to="/ShorterProjects/">Shorter Projects</Link></h2>
           <p>A selection of shorter projects on which I worked.
-            For now, it mainly includes work done during my master but it will be increasing as time goes!
+            For now, it mainly includes work done during my master
+            but it will be increasing as time goes!
           </p>
         </div>
       </header>

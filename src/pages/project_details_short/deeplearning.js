@@ -26,6 +26,19 @@ const Projects = () => (
           </p>
         </div>
       </header>
+      <header>
+        <div className="title">
+          <h2>Flood Forecasting</h2>
+          <p> Short study of multiple RNNs from the simple LSTM or GRU based model to
+            more complex encoder-decoder with attention layers.
+            In addition, an analysis of diverse data inputs, simple water levels up
+            to complete weather and precipitations,
+            are investigated to forecast the water level of one precise station.
+
+            Github repository is yet to be finalized.
+          </p>
+        </div>
+      </header>
     </article>
   </Main>
 );

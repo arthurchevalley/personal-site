@@ -15,11 +15,21 @@
 
 const work = [
   {
+    name: 'CHUV -y',
+    position: 'Medical Research Assistant Civil Duty',
+    url: 'https://www.levant.ch/',
+    startDate: '2023-11-13',
+    endDate: ''/* '2023-10-31', */,
+    summary: 'As a part of my swiss civil duty, I\'am working in the Diagnostic Imaging and Interventional Radiology department. This work aims at implementing a 3D Bispectrum UNet for locally rotation invariant segmentation of medical data.',
+    highlights: [],
+    OnlyYear: false,
+  },
+  {
     name: 'Fondation du Levant',
     position: 'IT Heldesk Civil Duty',
     url: 'https://www.levant.ch/',
     startDate: '2023-05-01',
-    endDate: ''/* '2023-10-31', */,
+    endDate: '2023-10-31',
     summary: 'During half of my swiss civil duty, I worked at the IT helpdesk of the Levant Foundation.',
     highlights: [],
     OnlyYear: false,

@@ -12,6 +12,6 @@ Furthermore, I am very interested in art in general. From the history of art up 
 
 <h1 style="text-align: center;">What is next?</h1>
 
-While I am completing my civil duty in Switzerland, I have time to wander around the coding world, trying out multiple things! However, I will also have the opportunity to work at CHUV to tackle the question of medical image deep learning for 3D invariant segmentation! As it may be understood looking at my project and interests, I cannot focus on only one project as I want to be a part of every aspect of technology and participate in the creation of tools to help others!
+While I am completing my civil duty in Switzerland, I have time to wander around the coding world, trying out multiple things! As it may be understood looking at my project and interests, I cannot focus on only one project as I want to be a part of every aspect of technology and participate in the creation of tools to help others!
 
 # To Be Continued...
