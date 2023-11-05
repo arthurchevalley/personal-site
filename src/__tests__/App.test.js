@@ -78,7 +78,9 @@ describe('renders the app', () => {
       await contactLink.click();
     });
     expect(document.title).toContain('Projects |');
-    expect(window.location.pathname).toBe('/projects');
+    expect(window.location.pathname).toBe('/projects/');
+    expect(document.title).toContain('ShorterProjects |');
+    expect(window.location.pathname).toBe('/shorterprojects/');
   });
 
   it('can navigate to /contact', async () => {
