@@ -12,6 +12,6 @@ Furthermore, I am very interested in art in general. From the history of art up 
 
 <h1 style="text-align: center;">What is next?</h1>
 
-While I am completing my civil duty in Switzerland, I have time to wander around the coding world, trying out multiple things! As it may be understood looking at my project and interests, I cannot focus on only one project as I want to be a part of every aspect of technology and participate in the creation of tools to help others!
+As soon as my Swiss civil duty is completed in April 2024, I'm thrilled to start a PhD [around machine learning and deep learning for medical imaging](https://data.snf.ch/grants/grant/219430). Specifically, I'll be investigating the prediction power of Heart images hoping to be able to better forecast major cardiac events and reduce their impact. Being able to apply state-of-the-art methodologies to real problems and trying to improve everyone's quality of life is a real motivation and step towards my personal life goals!
 
 # To Be Continued...
