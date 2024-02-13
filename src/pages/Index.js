@@ -16,7 +16,7 @@ const Index = () => (
         </div>
       </header>
       <p>
-        Hi, I&apos;m Arthur, a recently graduated <a href="https://www.epfl.ch/fr/">EPFL</a> robotic engineer. My main passions are about Machine Learning, Space Technologies, Mobile Robot Control and Art!{' '}
+        Hi, I&apos;m Arthur, a graduated <a href="https://www.epfl.ch/fr/">EPFL</a> robotic engineer and about to start a PhD. My main passions are about Machine Learning, Space Technologies, Mobile Robot Control and Art!{' '}
       </p>
       <p>
         Please feel free to read more <Link to="/about">about me</Link>,

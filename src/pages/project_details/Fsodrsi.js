@@ -18,8 +18,8 @@ const Projects = () => (
             object refers to all kind of man-made element, from train station to vehicles.
             To improve the results, a sub-part approach has been investigated by having
             a contrastive training procedure.
-            This work lead to an <Link to="https://github.com/arthurchevalley/Improving-FSOD-on-RSI-using-Sub-Parts/blob/main/IGARSS_Abstract.pdf">Abstract</Link> that has been accepted,
-            and presented, at <Link to="https://2023.ieeeigarss.org/">IGARSS 2023</Link>.
+            This work lead to an <Link to="https://ieeexplore.ieee.org/document/10282852">Conference paper</Link> that has been presented
+            at <Link to="https://2023.ieeeigarss.org/">IGARSS 2023</Link>.
             Further details are available on the associated <Link to="https://github.com/arthurchevalley/Improving-FSOD-on-RSI-using-Sub-Parts">GitHub page</Link>.
           </p>
         </div>
