@@ -15,9 +15,19 @@
 
 const work = [
   {
-    name: 'CHUV',
+    name: 'CHUV & HES-SO Sierre',
+    position: 'PhD in Biology and Medecine',
+    url: '',
+    startDate: '2024-04-01',
+    endDate: '',
+    summary: 'Development of geometric deep learning methods for Major Adverse Cardiac Events and Myocardium Viability prediction using Rubidium Imaging.',
+    highlights: [],
+    OnlyYear: false,
+  },
+  {
+    name: 'CHUV Nuclear medecine',
     position: 'Medical Research Assistant Civil Duty',
-    url: 'https://www.levant.ch/',
+    url: 'https://www.chuv.ch/fr/medecine-nucleaire/nuc-home',
     startDate: '2023-11-13',
     endDate: '2024-04-05',
     summary: 'As a part of my swiss civil duty, I\'am working in the Diagnostic Imaging and Interventional Radiology department. This work aims at implementing a 3D Bispectrum UNet for locally rotation invariant segmentation of medical data.',
