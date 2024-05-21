@@ -15,9 +15,9 @@
 
 const work = [
   {
-    name: 'CHUV & HES-SO Sierre',
+    name: 'HES-SO Sierre & CHUV',
     position: 'PhD in Biology and Medecine',
-    url: '',
+    url: 'https://medgift.hevs.ch/wordpress/',
     startDate: '2024-04-01',
     endDate: '',
     summary: 'Development of geometric deep learning methods for Major Adverse Cardiac Events and Myocardium Viability prediction using Rubidium Imaging.',
