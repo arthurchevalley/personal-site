@@ -13,6 +13,9 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
+const Cadence = lazy(() => import('./pages/Cadence'));
+const CadenceSegPage = lazy(() => import('./pages/cadence_details/segmentation'));
+const SegViabPage = lazy(() => import('./pages/cadence_details/seg_viab'));
 const ShorterProjects = lazy(() => import('./pages/ShorterProjects'));
 const FsodRsiPage = lazy(() => import('./pages/project_details/Fsodrsi'));
 const MAML = lazy(() => import('./pages/project_details/maml'));
@@ -29,6 +32,9 @@ const App = () => (
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/about" element={<About />} />
+        <Route path="/cadence/" element={<Cadence />} />
+        <Route path="/cadence/LVSegmentation" element={<CadenceSegPage />} />
+        <Route path="/cadence/SegmentViability" element={<SegViabPage />} />
         <Route path="/shorterprojects/" element={<ShorterProjects />} />
         <Route path="/projects/" element={<Projects />} />
         <Route path="/projects/FSODRSI" element={<FsodRsiPage />} />
